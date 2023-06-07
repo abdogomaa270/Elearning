@@ -1,7 +1,7 @@
 # Elearning
-this is a elearning project 
+this is a freelance project 'elearning project'  
 /app/project there is folders , each one refere to an entity in this project with it's service and controller  except Auth functionality 
-app functionality: 
+Requirement's based on business logic: 
   -user can review categories on the system and subcategories at each category 
   -and review courses at ervery subcategories , user can review course details 
   -there is no online-payment , so how users will pay courses ?
