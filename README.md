@@ -1,5 +1,4 @@
 # Elearning
-this is a freelance project 'elearning project'  
 /app/project there is folders , each one refere to an entity in this project with it's service and controller  except Auth functionality 
 Requirement's based on business logic: 
   -user can review categories on the system and subcategories at each category 
