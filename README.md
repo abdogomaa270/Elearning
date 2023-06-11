@@ -1,13 +1,5 @@
 # Elearning
-this a platform for selling courses ,
-2 types of users [ Admin, Student]
-/app/project there is folders , each one refere to an entity in this project with it's service and controller  except Auth functionality 
-Requirement's based on business logic: 
-  -user can review categories on the system and subcategories at each category 
-  -and review courses at ervery subcategories , user can review course details 
-  -there is no online-payment , so how users will pay courses ?
-  -each user has field 'balance' , users send request to admin to charge coins 
-  -admin will contact users and get his money then he accept users requests and their balance will be updated 
-  -users can pay courses with their balance and got access to this course 
-  -user can take quiz on each course he finished and if he passed quiz , he will get certificate from the instructor 
-  -admin has privillages to many functions like storing and deleteing anything 
+/app/project there is folders , each one refere to an entity in this project with it's service and controller  except Auth functionality ,,
+I have been involved in the development of an e-learning system that aims to provide users with access to a wide range of courses and resources. In this system, the admin is responsible for storing and managing resources such as categories, subcategories, and courses. Users can view and purchase courses, take quizzes, and receive certificates from their instructors upon completion.
+
+One of the unique features of this e-learning system is the ability for users to purchase courses using their balance. Users can request to charge their balance by sending a request to the admin, and the admin approves the request. This allows users to easily manage their finances and make purchases without the need for external payment systems.
